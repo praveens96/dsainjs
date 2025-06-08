@@ -1,8 +1,9 @@
-# dsainjs
-dsa problems i have solved
+# DSAinJS
+DSA problems i have solved
 would like to follow the below template:
 1. problem
 2. description
-3. conditions
-4. testcases
-5. approach gist.
+3. problem link
+4. conditions
+5. testcases
+6. approach gist.
