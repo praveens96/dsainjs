@@ -9,6 +9,11 @@
 *
 * for typescript just declare input type (prices: number[]) thats enough.
 * sliding window way is also incuded., total 3 ways to solve the problem were given here.
+*
+* Testcases: 
+* 1. Input: prices = [10,1,5,6,7,1], Output: 6
+* 2. Input: prices = [10,8,7,5,2], Output: 0
+
 */
 
 
