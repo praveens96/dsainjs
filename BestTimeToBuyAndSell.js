@@ -3,6 +3,10 @@
 * You may choose a single day to buy one NeetCoin and choose a different day in the future to sell it.
 * Return the maximum profit you can achieve. You may choose to not make any transactions, in which case the profit would be 0.
 * NeetCode150: https://neetcode.io/problems/buy-and-sell-crypto
+* Approach: 
+* min price approach:: keep track of min price & max profit and return max profit at the end.
+* sliding window:: determine the max profit everytime and keep small in left and large in right, increment right
+*
 * for typescript just declare input type (prices: number[]) thats enough.
 * sliding window way is also incuded., total 3 ways to solve the problem were given here.
 */
